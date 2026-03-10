@@ -38,8 +38,3 @@ Usage
 Open the dashboard in Tableau.
 **https://public.tableau.com/app/profile/kavitha.vijayan/viz/projectsalescomparisonbwtworegions/Dashboard1**
 
-Use the Primary Region and Secondary Region parameters to select the regions you want to compare.
-
-View KPIs for each region, along with bar and line charts for visual insights.
-
-Analyze the results to make strategic business decisions.
